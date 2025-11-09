@@ -1,0 +1,33 @@
+# Arduino IDE files
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+
+# Build files
+build/
+*.bin
+
+# Arduino library cache
+.arduino/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Sensitive credentials (uncomment if you create a config file)
+# config.h
+# credentials.h
+
+# Temporary files
+*.tmp
+*.bak
+*~
