@@ -1,10 +1,10 @@
-# Telegram OTP Door Lock System 🔐
+                                                                     # Telegram OTP Door Lock System 🔐
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IoT door lock system using ESP32 and Telegram bot for secure OTP-based access control with 4x4 keypad and LCD display.
 
 ## 📋 Project Overview
 
-This project demonstrates an intelligent door lock system that combines IoT technology with secure access control. Built for Logic & Microprocessor coursework, it showcases real-world application of microcontroller programming, IoT protocols, and security concepts.
+This project demonstrates an intelligent door lock system that combines IoT technology with secure access control. Built for Logic & Microprocessor coursework, it showcases real-world application of microcontroller programming, IoT protocols, and security concep---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ts.
 
 ## ✨ Features
 
